@@ -15,6 +15,7 @@
   "dependencies": {
     "@convex-dev/auth": "^0.0.90",
     "convex": "^1.29.0",
+    "en-inflectors": "^1.0.12",
     "next": "16.0.10",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
